@@ -1,2 +1,2 @@
-name: Haim Steinberg
-email: haimke8200@gmail.com
+name: first last
+email: name@email.com
